@@ -1,0 +1,5 @@
+openpyxl==3.0.10
+streamlit==1.19.0
+tkinter
+shutil
+pandas==1.5.3
